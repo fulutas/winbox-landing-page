@@ -1,4 +1,4 @@
-# Winbox Landing Page
+# Simple Landing Page
 
 # Demo:
 ```https://winbox-landing-page.vercel.app/```
