@@ -1,7 +1,7 @@
 # Simple Landing Page
 
-# Demo:
-```https://winbox-landing-page.vercel.app/```
+[View Demo](https://winbox-landing-page.vercel.app) 
 
 # WinBox.js Library:
-```https://nextapps-de.github.io/winbox/```
+[Library](https://nextapps-de.github.io/winbox) 
+
